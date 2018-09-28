@@ -1,6 +1,7 @@
 
 
 PRE-REQUESTIES :
+
 A) Install Java - Latest version or (1.8.0_171)
 B) Installing node manually:
    	Please download the latest version of NodeJs from http://nodejs.org  and install.

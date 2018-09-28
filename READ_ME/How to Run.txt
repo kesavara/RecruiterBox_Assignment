@@ -6,13 +6,15 @@ B) HOW TO RUN THE TEST :
 
 	RUN FROM COMMAND LINE:
 
-		1.Clone the project from https://github.com/kesavara/RecruiterBox_Assignment
-		2.cd to the above directory and to WORKSPACE_TESTCODE   (eg) c:/users/...../UI_Automation_Project/WORKSPACE_TESTCODE)
+		1.Clone the project from https://github.com/kesavara/RecruiterBox_Assignment.git
+		2.cd  to RecruiterBox_Assignment/WORKSPACE_TESTCODE  directory   (eg) c:/users/...../RecruiterBox_Assignment/WORKSPACE_TESTCODE)
 
 		3.npm install
-		4.npm start
+		4.npm start          Note:  (Pls look Package.json file for details. I have configured their.if we run npm start, test will start)
 		
-	
+	NOTE: After running Check 'reprots' folder for Test Run results.
+
+
 	(OR)
 	
 	RUN FROM WEBSTORM IDE :
