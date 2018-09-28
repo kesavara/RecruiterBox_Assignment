@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="7" time="70.695">
+ <testsuite name="Kindle Buy TestCases : Sample UI_Automation_Project" timestamp="2018-09-28T10:26:41" hostname="localhost" time="36.398" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Kindle Buy TestCases : Sample UI_Automation_Project.Kindle Book Buy - Testcases" timestamp="2018-09-28T10:26:41" hostname="localhost" time="34.297" errors="0" tests="7" skipped="0" disabled="0" failures="0">
+  <testcase classname="Kindle Buy TestCases : Sample UI_Automation_Project.Kindle Book Buy - Testcases" name="TestCase 1 : GoTO Makemytrip.com and verify the title of the page" time="11.226" />
+  <testcase classname="Kindle Buy TestCases : Sample UI_Automation_Project.Kindle Book Buy - Testcases" name="TestCase 2 : Switch to ONE-WAY to ROUND TRIP" time="0.213" />
+  <testcase classname="Kindle Buy TestCases : Sample UI_Automation_Project.Kindle Book Buy - Testcases" name="TestCase 3 : Select the source and Destination you would liek to fly" time="0.812" />
+  <testcase classname="Kindle Buy TestCases : Sample UI_Automation_Project.Kindle Book Buy - Testcases" name="TestCase 4 : Select the Depart date as Today and Return date as NEXT day and search " time="0.871" />
+  <testcase classname="Kindle Buy TestCases : Sample UI_Automation_Project.Kindle Book Buy - Testcases" name="TestCase 5 : Verify Page navigated and resulted in &apos;Flight Split Listing View&apos; Page  " time="13.279" />
+  <testcase classname="Kindle Buy TestCases : Sample UI_Automation_Project.Kindle Book Buy - Testcases" name="TestCase 6 : Click on BOOK button present in the CHEAPEAST FLIGHTS Section and verify Page navigated to Booking pAGE" time="7.687" />
+  <testcase classname="Kindle Buy TestCases : Sample UI_Automation_Project.Kindle Book Buy - Testcases" name="TestCase 7 :Veify Booking page contains fields namely Departure,return,Fare summary, Offers and login button. " time="0.189" />
+ </testsuite>
+</testsuites>

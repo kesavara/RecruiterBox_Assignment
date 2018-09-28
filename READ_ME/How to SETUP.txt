@@ -1,0 +1,22 @@
+
+
+PRE-REQUESTIES :
+A) Install Java - Latest version or (1.8.0_171)
+B) Installing node manually:
+   	Please download the latest version of NodeJs from http://nodejs.org  and install.
+   	Now to see if the installation is done successfully, you can go and check in system environment variables. The path will be defined automatically. if not pls add path in system variable eg)c:\program files (x86)\nodesjs\
+   	Open the command window and check versions
+   	    node --version      To Check the version of Node.js you have
+   	    npm -version        Check the version of NPM by running
+
+
+
+
+SETUP PROCEDURE :
+
+
+C)To Install Protractor, run below in Cmd window.
+
+     $ npm install -g protractor
+	 $ webdriver-manager update  	 
+	 
