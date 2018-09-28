@@ -9,7 +9,7 @@ var dates = new Date();
 var today = dates.getDate();
 var tomorrow = today+1;
 
-describe('Kindle Buy TestCases : Sample UI_Automation_Project',function() {
+describe('TestCases : MakeMyTrip_UI_Automation_Project',function() {
     beforeEach(function () {
         isAngularSite(false);
         CommonObject.waitforAngular(false);
@@ -19,7 +19,7 @@ describe('Kindle Buy TestCases : Sample UI_Automation_Project',function() {
 
     });
 
-    describe('Kindle Book Buy - Testcases', function () {
+
 
         it("TestCase 1 : GoTO Makemytrip.com and verify the title of the page", function () {
             homePage.MakeMyTripSite_Home();
@@ -72,7 +72,7 @@ describe('Kindle Buy TestCases : Sample UI_Automation_Project',function() {
 
         });
 
-    });
+
 });
             
                
