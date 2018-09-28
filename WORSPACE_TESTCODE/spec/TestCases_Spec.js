@@ -34,8 +34,7 @@ describe('Kindle Buy TestCases : Sample UI_Automation_Project',function() {
         });
 
         it("TestCase 3 : Select the source and Destination you would liek to fly", function () {
-
-            //CommonObject.waitforAngular(false);
+            CommonObject.waitforAngular(false);
             browser.wait(EC.elementToBeClickable($('#hp-widget__sfrom')), 5000, "NOT FOUND");
             locators_Objects.clickby_ID("hp-widget__sfrom");
             locators_Objects.clickby_CssContainingText("span", "BLR");
